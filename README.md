@@ -1,3 +1,3 @@
-# advent of code 2022
+# Advent of Code 2022
 
-Program from daily tasks for Advent of Code 2022.
+Program for daily tasks Advent of Code 2022.
